@@ -1,0 +1,8 @@
+[project]
+name = "mpa-2026-signal-finder"
+version = "0.1.0"
+description = "Teaching reference for context-engineering (A/B/C framework) against Reddit's front page."
+requires-python = ">=3.10"
+dependencies = [
+    "trafilatura>=1.12",
+]
